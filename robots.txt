@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cizeilaer.gaia.lol/sitemap.xml
